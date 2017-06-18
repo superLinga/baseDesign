@@ -1,2 +1,3 @@
-# baseDesign
-设计基础应用模块，方便开发使用
+#title baseDesign
+#author 851038085@qq.com
+#describe Design basic application module, easy to develop and use
